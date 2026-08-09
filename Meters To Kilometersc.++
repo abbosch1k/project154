@@ -1,0 +1,10 @@
+#include <iostream>
+using namespace std;
+
+int main() {
+    double m;
+    cin >> m;
+
+    cout << m / 1000;
+    return 0;
+}
